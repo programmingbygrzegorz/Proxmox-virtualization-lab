@@ -1,0 +1,15 @@
+# sekrety – nigdy nie commitować
+*.keyring
+*.key
+*.pem
+authkey
+*.env
+*token*
+pbs-encryption-key*
+
+# eksporty i backupy lokalne
+*.vma*
+*.tar.zst
+*.qcow2
+*.img
+*.iso
